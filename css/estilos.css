@@ -15,6 +15,7 @@ body {
   margin: 0 auto;
   padding: 0.5rem;
   background:#FDE4FF;
+  font-family:'Century Gothic';
 }
 
 header {
@@ -23,6 +24,7 @@ header {
   top: 0;
   background-color:
     var(--color-header);
+  color: white;
 }
 
 .herramientas {
