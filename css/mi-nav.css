@@ -1,6 +1,8 @@
 mi-nav {
   display: block;
   background-color:#FFBAFF;
+  text-decoration: none;
+  color: white;  
 }
 
 mi-nav ul {
