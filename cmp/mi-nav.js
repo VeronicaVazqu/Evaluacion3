@@ -52,7 +52,7 @@ class MiNav extends HTMLElement {
             "Administrador")) {
             html += /* html */
               `<li>
-                <a href="alumnos.html">Empleados</a>
+                <a href="empleados.html">Empleados</a>
               </li>
               <li>
                 <a href="usuarios.html">Usuarios</a>
