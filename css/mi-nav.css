@@ -1,7 +1,7 @@
 mi-nav {
   display: block;
   background-color:#FFBAFF;
-  text-decoration: #FFFFFF;
+  text-decoration: none;
   color: white;  
 }
 
@@ -13,12 +13,12 @@ mi-nav ul {
   list-style: none;
   padding: 0;
   margin: 0;
-  text-decoration: #FFFFFF;
+  text-decoration: none;
   color: white;  
 }
 
 mi-nav ul li {
   margin: 0.5rem;
-  text-decoration: #FFFFFF;
+  text-decoration: none;
   color: white;  
 }
